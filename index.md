@@ -7,3 +7,8 @@
 ``` javascript
 var myVar = "Hello, world! I am Yaktocat";
 ```
+
+- [x] Turn on Github
+- [x] Create Yaktocat
+- [ ] ...
+- [ ] Profit???
