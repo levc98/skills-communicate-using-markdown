@@ -7,10 +7,6 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Test document
-##### I am testing the ability to add headers in this document
-###### I am trying to commit...
-
 # Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
